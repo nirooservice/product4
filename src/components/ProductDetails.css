@@ -1,0 +1,27 @@
+/* ProductDetails.css */
+.product-details {
+  text-align: center;
+  padding: 20px;
+}
+
+.product-details img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.product-details table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.product-details td {
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.product-details td:first-child {
+  font-weight: bold;
+  background-color: #f2f2f2;
+}
